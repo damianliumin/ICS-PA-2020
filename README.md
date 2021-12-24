@@ -12,7 +12,7 @@ bash init.sh subproject-name
 ```
 See `init.sh` for more details.
 
-The following subprojects/components are included. Some of them are not fully implemented.
+The following subprojects/components are included.
 * [NEMU](https://github.com/NJU-ProjectN/nemu)
 * [Abstract-Machine](https://github.com/NJU-ProjectN/abstract-machine)
 * [Nanos-lite](https://github.com/NJU-ProjectN/nanos-lite)
